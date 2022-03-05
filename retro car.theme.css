@@ -1,0 +1,55 @@
+/**
+* @name Retro Car Remake 
+* @version 1.0.0
+* @description pretty cool
+* @author 𝖅𝖊𝖕𝖍𝖑𝖔𝖓#3478
+* @Source https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+* @website https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://fonts.googleapis.com/css2?family=Lato');
+:root {
+--background-image: url('https://i.pinimg.com/originals/2b/de/7d/2bde7d14133968f97d6c4dd898edb989.gif');
+--background-image-blur: 9px;
+--background-image-size: contain;
+--background-image-position: left;
+--popout-modal-image: url('https://i.imgur.com/HZRTLZs.jpg');
+--popout-modal-blur: 6px;
+--popout-modal-size: cover;
+--popout-modal-position: right;
+--home-button-image: url('https://i.makeagif.com/media/11-12-2015/pdHdv_.gif');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.55;
+--left-brightness: 0.75;
+--middle-brightness: 0.55;
+--right-brightness: 0.25;
+--popout-modal-brightness: 0.55;
+--gradient-primary: 112,63,198;
+--gradient-secondary: 69,89,198;
+--gradient-direction: 180deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0.05;
+--window-padding: 5px;
+--window-roundness: 7px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #A936F4FF;
+--show-gift-gif-buttons: none;
+--font: 'Lato';
+--update-notice-1: none;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
